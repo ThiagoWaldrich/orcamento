@@ -9,3 +9,6 @@
 
 ### Seguindo a documentação da versão 14 do Next.js o projeto frontend foi criado utilizando o comando:
 ![Alt text](image-1.png)
+
+### A criação do projeto backend seguiu com o auxílio do spring initializr, seguindo estas configurações:
+![Alt text](image-2.png)
