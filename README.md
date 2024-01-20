@@ -19,9 +19,11 @@
 
 ### Após a criação do projeto foi adicionada a dependência swagger para simplificar os testes da API
 
-### <dependency>
-###    <groupId>org.springdoc</groupId>
-###    <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-###    <version>2.2.0</version>
-### </dependency>
+```
+<dependency>
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+    <version>2.2.0</version>
+</dependency>
+```
 
