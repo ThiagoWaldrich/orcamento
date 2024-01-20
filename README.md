@@ -8,8 +8,9 @@
 ## Criação do projeto frontend
 
 ### Seguindo a documentação da versão 14 do Next.js o projeto frontend foi criado utilizando o comando:
-
-#### npx create-next-app@latest
+```
+npx create-next-app@latest
+```
 ![Alt text](image-1.png)
 
 ## Criação do projeto backend
@@ -27,3 +28,8 @@
 </dependency>
 ```
 
+## Figma
+
+### O design da aplicação foi projetado no Figma, de modo a ficar intuitivo e completo.
+
+* [Figma](https://www.figma.com/file/8iOBS9trrTRJdEUxAsUAaH/Or%C3%A7amento?type=design&node-id=2-88&mode=design)
