@@ -8,7 +8,14 @@
 ## Criação do projeto frontend
 
 ### Seguindo a documentação da versão 14 do Next.js o projeto frontend foi criado utilizando o comando:
+
+#### npx create-next-app@latest
 ![Alt text](image-1.png)
+
+## Criação do projeto backend
 
 ### A criação do projeto backend seguiu com o auxílio do spring initializr, seguindo estas configurações:
 ![Alt text](image-2.png)
+
+
+
