@@ -17,5 +17,11 @@
 ### A criação do projeto backend seguiu com o auxílio do spring initializr, seguindo estas configurações:
 ![Alt text](image-2.png)
 
+### Após a criação do projeto foi adicionada a dependência swagger para simplificar os testes da API
 
+<dependency>
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+    <version>2.2.0</version>
+</dependency>
 
