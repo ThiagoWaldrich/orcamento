@@ -33,3 +33,6 @@ npx create-next-app@latest
 ### O design da aplicação foi projetado no Figma, de modo a ficar intuitivo e completo.
 
 * [Figma](https://www.figma.com/file/8iOBS9trrTRJdEUxAsUAaH/Or%C3%A7amento?type=design&node-id=2-88&mode=design)
+
+## Arquitetura inicial do projeto backend
+![Alt text](image-3.png)
